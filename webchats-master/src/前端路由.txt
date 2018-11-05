@@ -1,0 +1,45 @@
+#/qustore    				趣商城首页
+#/login					登录
+#register				注册
+#/register/setphone			设置注册手机
+#/register/setpassword			设置注册密码
+#/reset					重置密码
+
+
+#/jd         				京东首页
+#/classify   				京东分类
+#/goodslist/(分类sku Base64加密)  	京东列表
+#/details/(商品SKU base64加密)     	商品详情页
+
+#/car					购物车
+#/submitorder				提交订单
+#/pay/:orderid				订单支付
+#/paymoney/:way/:orderid		余额中欣卡支付订单
+
+#/main					我的商城
+#/account				账户信息
+#/discounts				优惠券
+#/myQudou				我的趣豆
+
+#/myaddress				我的收货地址
+#/addaddress				添加收货地址
+
+#/order					订单列表页
+#/logistics				物流查询
+#/ordercontent				订单详情
+#/applyfor				售后申请页
+#/applyplan				售后进度查询页
+#/after					售后申请
+
+#/recharge				余额充值
+#/record				充值记录
+
+
+#/Activate				在线激活卡
+#/ArRe3					易付卡充值
+#/ArRe4					中信卡充值
+
+
+#/phone/hf                              手机话费充值
+#/phone/ll				手机流量充值
+#/phone/inform				手机充值提醒
